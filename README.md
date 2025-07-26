@@ -9,4 +9,4 @@
 </html>
 
     
-https://uupload.ir/view/img_20250727_024716_817d.jpg
+<a href="https://uupload.ir/" target="_blank"><img src="https://s6.uupload.ir/files/img_20250727_024716_817d.jpg" border="0" alt="آپلود عکس" /></a>
